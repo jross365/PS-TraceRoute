@@ -1,8 +1,3 @@
-This is a simple, straightforward Powershell wrapper for Windows tracert (traceroute).
-
-The function parses console output and returns an ArrayList of objects with the following properties:
-
-
 # PS-TraceRoute
 
 A simple Powershell wrapper function for the Windows traceroute (tracert) tool.
